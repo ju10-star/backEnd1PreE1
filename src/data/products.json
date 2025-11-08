@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1730854512345",
+    "title": "Zapatilla",
+    "description": "Nike Air Force",
+    "code": "AF001",
+    "price": 20000,
+    "status": true,
+    "stock": 15,
+    "category": "calzado",
+    "thumbnails": ["img1.jpg"]
+  }
+]
